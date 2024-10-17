@@ -1,6 +1,6 @@
 #include "header.h"
 
-int main() {
+int main(void) {
 	print();
 	return 0;
 }
